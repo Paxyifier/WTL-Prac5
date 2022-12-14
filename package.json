@@ -1,0 +1,22 @@
+{
+  "name": "wtl-prac5",
+  "version": "1.0.0",
+  "description": "Web Techonologies Practical 5 - Exploring fs module",
+  "main": "prac5q1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paxyifier/WTL-Prac5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paxyifier/WTL-Prac5/issues"
+  },
+  "homepage": "https://github.com/Paxyifier/WTL-Prac5#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
