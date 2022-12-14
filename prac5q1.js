@@ -41,6 +41,7 @@ while (flag){
     3. Delete a file
     4. Append to a file
     5. Rename a file
+    6. Exit
     `);
 
     switch(ch){
