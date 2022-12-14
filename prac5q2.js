@@ -17,10 +17,8 @@ fs.rename('input.txt','input.renamed.txt',(err) => {
     if (err) throw err;
     console.log('file renamed')
 })
-// setTimeout(()=>{
 fs.unlink('input.renamed.txt',(err)=>{
     if (err) throw err;
     console.log('path/file.txt was deleted');
 })
 console.log("all commands queued for asynchronous operations.")
-// },2000)
